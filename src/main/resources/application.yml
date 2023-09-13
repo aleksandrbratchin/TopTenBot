@@ -1,2 +1,5 @@
-bot.name: TopTenBot
-bot.token:
+bot:
+  name: TopTen13_Bot
+  token: 6072446872:AAFdVkosC5jqXRw4Gv1bMXEk2L3phpqF5As
+server:
+  port: 8090
